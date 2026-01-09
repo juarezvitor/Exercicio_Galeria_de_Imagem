@@ -28,6 +28,31 @@ O projeto foi desenvolvido com foco em **usabilidade**, **organização visual e
 
 ---
 
+📱 Responsividade
+
+- A aplicação é responsiva e se adapta a diferentes tamanhos de tela:
+- Desktop
+- Tablets
+- Smartphones
+- No mobile, o título das imagens é exibido automaticamente, garantindo melhor experiência de uso.
+
+---
+
+📄 Observações
+
+- O projeto utiliza uma API pública (Unsplash).
+- Não é necessário backend para execução.
+- O código foi estruturado visando clareza, manutenção e boas práticas.
+
+---
+
+🧑‍💻 Autor
+
+- Desenvolvido por Juarez Vitor
+- Projeto acadêmico para prática de desenvolvimento web front-end.
+
+---
+
 ## ⚙️ Como Rodar o Projeto Localmente
 
 ### Pré-requisitos
